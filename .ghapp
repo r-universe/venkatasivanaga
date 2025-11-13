@@ -1,0 +1,10 @@
+{
+  "id": 94585301,
+  "created_at": "2025-11-13T21:25:16.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["Trees_seg"]
+}
