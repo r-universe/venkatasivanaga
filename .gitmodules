@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/venkatasivanaga/venkatasivanaga.r-universe.dev
 	branch = HEAD
+[submodule "vegseg"]
+	path = vegseg
+	url = https://github.com/venkatasivanaga/Trees_seg
