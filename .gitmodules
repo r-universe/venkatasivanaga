@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/venkatasivanaga/venkatasivanaga.r-universe.dev
 	branch = HEAD
-[submodule "vegseg"]
-	path = vegseg
-	url = https://github.com/venkatasivanaga/Trees_seg
+[submodule "FuelsDeep3D"]
+	path = FuelsDeep3D
+	url = https://github.com/venkatasivanaga/FuelsDeep3D
