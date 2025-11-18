@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/venkatasivanaga/venkatasivanaga.r-universe.dev
 	branch = HEAD
-[submodule "FuelsDeep3D"]
-	path = FuelsDeep3D
-	url = https://github.com/venkatasivanaga/FuelsDeep3D
+[submodule "FuelDeep3D"]
+	path = FuelDeep3D
+	url = https://github.com/venkatasivanaga/FuelDeep3D
